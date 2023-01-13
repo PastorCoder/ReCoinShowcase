@@ -1,16 +1,26 @@
 import { Download, Features, SectionWrapper } from "./components";
+import assets from "./assets";
 
 const App = () => {
   return (
-    <div className="text-3x1 font-bold underline">
-        <h1>
-          React Native NFT Showcase
-        </h1>
-        <Download />
-        <Features />
-        <SectionWrapper />
-    </div>
+    <>
+      <SectionWrapper
+        title="Your Store Of Nifty NFTs. Start Selling and Growing"
+        description="Trade, Store NFTs, Exchange and Earn Crypto. Join 25+ 
+        million people using ReCoin marketplace"
+        showBtn
+        mockupImg={assets.homeHero}
+        banner="banner"
+      />
+      <SectionWrapper
+        title="Smart User Interface Marketplace"
+        description="Experience a buttery UI of ReCoin NFT marketplace. Smooth constant colours of a fluent UI designs"
+        
+        mockupImg={assets.homeCards}
+       reverse
+      />
+    </>
   );
-}
+};
 
 export default App;
