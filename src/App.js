@@ -1,5 +1,6 @@
 import { Download, Features, SectionWrapper } from "./components";
 import assets from "./assets";
+import "../styles/override-global.css";
 
 const App = () => {
   return (
