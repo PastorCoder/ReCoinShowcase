@@ -1,4 +1,5 @@
 import React from "react";
+import "../styles/override-global.css";
 import styles from "../styles/Global";
 import assets from "../assets";
 import Button from "./Button";
@@ -20,7 +21,7 @@ const SectionWrapper = ({
       <div
         className={`flex items-center ${
           reverse ? styles.boxReverseClass : styles.boxClass
-        } w-1/2 sm:w-full minmd:w-3/4`}
+        } w-1/2  minmd:w-3/4`} //sm:w-full
       >
         <div
           className={`${styles.descDiv} 
@@ -31,6 +32,7 @@ const SectionWrapper = ({
             className={`
             ${reverse ? styles.blackText : styles.whiteText} 
             ${styles.h1Text}`}
+            id="title-text"
           >
             {title}
           </h1>
@@ -55,7 +57,7 @@ const SectionWrapper = ({
           src={mockupImg}
           alt="mockup"
           className={`${reverse ? " fadeLeftMini" : " fadeRightMini"}
-        ${styles.sectionImg} sm:object-fill sm:w-full`}
+        ${styles.sectionImg} sm:object-fill sm:w-full `}
         />
       </div>
     </div>

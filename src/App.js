@@ -14,11 +14,32 @@ const App = () => {
       />
       <SectionWrapper
         title="Smart User Interface Marketplace"
-        description="Experience a buttery UI of ReCoin NFT marketplace. Smooth constant colours of a fluent UI designs"
-        
+        description="Experience a buttery UI of ReCoin NFT marketplace. 
+        Smooth constant colours of a fluent UI designs"
         mockupImg={assets.homeCards}
-       reverse
+        reverse
       />
+
+      <Features />
+
+
+      <SectionWrapper
+        title="Deployment"
+        description="ReCoin is built using an innovative 
+        technology which runs on all users' 
+        devices - Android and IOS. You can easily get your app into people hand"
+        mockupImg={assets.feature}
+        reverse
+      />
+      
+      <SectionWrapper
+        title="Showcasing ReCoin NFT Marketplace"
+        description="The App contains two screens. The first Lists 
+        all the NFTs while the second one shows the details of a specific NFT."
+        mockupImg={assets.mockup}
+        banner="banner02"
+      />
+      <Download />
     </>
   );
 };
