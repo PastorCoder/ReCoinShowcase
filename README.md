@@ -4,7 +4,7 @@
    #### `ipfs://bafybeicesiwabmza7dk6yuryzglxhlm5xiabdne3j5oehl3z7h7tknista/`
    
    This web app is deployed on web3 (IPFS).\
-Open [ipfs://bafybeicesiwabmza7dk6yuryzglxhlm5xiabdne3j5oehl3z7h7tknista](ipfs://bafybeicesiwabmza7dk6yuryzglxhlm5xiabdne3j5oehl3z7h7tknista) to view it in your browser.
+Open [ipfs://bafybeicesiwabmza7dk6yuryzglxhlm5xiabdne3j5oehl3z7h7tknista](https://broken-lake-4504.on.fleek.co) to view it in your browser.
 
 ## Available Scripts
 
