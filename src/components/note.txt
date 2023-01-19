@@ -1,0 +1,3 @@
+https://fleek.co/ - vercel for web3
+Deployed to IPFS and got the hash: QmQwkVCHpBTrx5UnsMxyHXTV19FbcDNNqLdpPVvMgxx7mi
+ You can visit the new site at: https://broken-lake-4504.on.fleek.co
