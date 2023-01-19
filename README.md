@@ -1,7 +1,7 @@
 
    
 # This web app is deployed on web3 (IPFS).
- Open [Web3 Link](https://broken-lake-4504.on.fleek.co) to view it in your browser.
+ Open [ReCoin NFT Marketplace Download Site](https://broken-lake-4504.on.fleek.co) to view it in your browser.
 
 
 
