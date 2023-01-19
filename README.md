@@ -1,9 +1,7 @@
 # Getting Started with Create React App
 
-## This web app is deployed on web3 (IPFS) :
-   ### `ipfs://bafybeicesiwabmza7dk6yuryzglxhlm5xiabdne3j5oehl3z7h7tknista/`
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### This web app is deployed on web3 (IPFS) click on the link below to view it :
+   #### `ipfs://bafybeicesiwabmza7dk6yuryzglxhlm5xiabdne3j5oehl3z7h7tknista/`
 
 ## Available Scripts
 
